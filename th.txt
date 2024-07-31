@@ -1,0 +1,46 @@
+//programming language:c,cpp,java
+//scripting language:js,python,php
+//markup language:html,xml
+
+//markup up: we have to follow tags
+
+------------------------------------------------------------
+server side:output is generated on server side
+client side: output is generated on client side
+
+HTML: hypertext markup language
+--------------------------------
+to create web pages
+
+find df between html4 and html5
+
+
+html5: 2014
+
+tags:
+1 html : <htm> </html>
+
+list:
+ordered list: <ol> </ol>
+unordered list: <ul> </ul>
+list item: <li> </li>
+
+attributes: 
+ol
+type: 1, A, a, I, i
+
+<a> </a> : anchor tag
+to create hyperlink we will use <a> tag
+
+attributes:
+href: hyperlink reference : url : uniform resource locator
+target: _blank, _self, _parent, _top
+
+
+table:
+<table> </table>
+<thead> </thead>
+<th> </th> table heading
+<tbody> </tbody>
+<tr> </tr> table row
+<td> </td> table data
