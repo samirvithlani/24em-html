@@ -44,3 +44,51 @@ table:
 <tbody> </tbody>
 <tr> </tr> table row
 <td> </td> table data
+
+------------------------------------------------------------
+
+path:
+realtive path: /image  : 
+    image
+      abc.html
+      demo.jpg
+                    src = "./demo.jpg" //relative path
+
+./ : current directory                    
+
+HTML
+ image
+  abc.html
+demo.jpg
+                    src = "../demo.jpg" //relative path
+
+../ : parent directory
+
+../../ : grand parent directory
+../../../ : great grand parent directory
+
+absolute path:
+D:\royal\24-e-morning\html\image\demo.jpg
+
+
+------------------------------------------------------------
+img tag:
+src = "url | path"
+alt = "text"
+
+
+col:
+id bookname image author price publish year
+
+1)1 author has published 2 books in a single year
+2)2 same subjects books having diff price and diff publish year
+
+
+flash : .swf
+
+video tag:
+
+tag
+video
+
+wepage: no .css
