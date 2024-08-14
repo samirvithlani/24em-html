@@ -92,3 +92,9 @@ tag
 video
 
 wepage: no .css
+
+
+identify the tags:
+id: unique identification  <h1 id="head1">name </h1>
+class: group of elements : css <h1 class="header>name </h1>
+name:                     : <p name="para1">name </p>
