@@ -1,1 +1,14 @@
 <ul> type: ??
+
+
+blood donation form:
+
+donor name: ???  name
+donor age: ??? age
+donor blood group: ??? drop down  bgroup
+any disease: ??? radio   disease
+donor address: ???  address
+birth date: ???  date
+blood donation slot: ??? time slot
+
+<form onsubmit ="donateblood(event)">
